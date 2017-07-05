@@ -41,7 +41,7 @@ social:
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
-plugins_dir:
+gems:
   - jekyll-feed
   - kramdown
   - jekyll-seo-tag
@@ -59,4 +59,4 @@ plugins_dir:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor','.ruby-version', '.ruby-gemset', 'README.md', 'jemoji']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor','.ruby-version', '.ruby-gemset', 'README.md']
