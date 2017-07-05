@@ -25,7 +25,7 @@ show_downloads: false
 google_analytics: UA-99136199-1
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman-blog
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - kramdown
