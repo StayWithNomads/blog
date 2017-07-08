@@ -17,20 +17,38 @@ title: StayWithNomads Blog
 email: hello@staywithnomads.com
 description: > # this means to ignore newlines until "baseurl:"
   Updates about StayWithNomads.com
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.staywithnomads.com" # the base hostname & protocol for your site, e.g. http://example.com
+main_url: "https://www.staywithnomads.com"
+# url: "https://blog.staywithnomads.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: StayWithNomads
 github_username:  StayWithNomads
 show_downloads: false
-google_analytics: UA-99136199-1
+google_analytics: UA-102008846-1
+webmaster_verifications:
+  google: peTRUmBjdzEh99mriBPJGLgRxoV2xlVTUpnxnR3kbTk
+# seo
+author: StayWithNomads
+twitter:
+  username: StayWithNomads
+
+logo: /assets/staywithnomads.png
+social:
+  name: StayWithNomads
+  links:
+    - https://twitter.com/StayWithNomads
+    - https://www.facebook.com/StayWithNomads
+    - https://plus.google.com/+StayWithNomads
+    - https://github.com/StayWithNomads
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman-blog
-plugins:
+theme: jekyll-theme-cayman
+gems:
   - jekyll-feed
   - kramdown
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -43,4 +61,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile', '.ruby-version', '.ruby-gemset']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor','.ruby-version', '.ruby-gemset', 'README.md']
