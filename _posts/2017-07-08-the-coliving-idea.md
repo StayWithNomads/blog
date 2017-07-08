@@ -2,7 +2,7 @@
 layout: post
 title: "The Coliving Idea"
 description: "Introduction To Stay With Nomads To Help Digital Nomads Find And Create Self Organized Coliving Spaces."
-image: /assets/TheIdea.jpg
+image: /images/theidea.jpg
 categories: updates
 youtubeId: egDMiOtbESQ
 ---
