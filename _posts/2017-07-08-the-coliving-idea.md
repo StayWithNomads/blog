@@ -7,7 +7,7 @@ categories: updates
 youtubeId: egDMiOtbESQ
 ---
 
-This the first post of a series that highlights the development process of StayWithNomads. For this post, we will cover the application idea, how we are releasing the features and a few ways you can help us out.
+This is the first post of a series that highlights the development process of StayWithNomads. For this post, we will cover the application idea, how we are releasing the features and a few ways you can help us out.
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
