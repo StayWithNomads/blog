@@ -5,7 +5,6 @@ description: "StayWithNomads is now accepting early access user signups."
 image: /images/earlyaccess.jpg
 categories: updates
 ---
-
 We have opened up the site to start sending early access invitations. You can find the link to sign up [Stay With Nomads](https://www.staywithnomads.com/?s=blog). Our early access users are critical to us. They are the ones that will shape the site with their feedback.
 
 ![StayWithNomads EarlyAccess](/images/earlyaccess.jpg)
