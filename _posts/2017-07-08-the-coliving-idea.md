@@ -26,5 +26,5 @@ Besides providing feedback, the biggest thing right now is to help spread the wo
 
 To sign up for the early access [Stay With Nomads](https://www.staywithnomads.com/).
 
-Thanks for your interest in StayWithNomads!
+**Thanks for your interest in StayWithNomads!**
 

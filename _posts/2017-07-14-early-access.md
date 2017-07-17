@@ -13,4 +13,4 @@ Included in the invitation is a small five question survey to find out more abou
 
 The next release we will be adding the ability to add places you would be interested in living. Selecting your interests is the first step to start organizing your coliving space. We will be talking more about this in our next blog post.
 
-Thanks for your interest in StayWithnNomads!
+**Thanks for your interest in StayWithnNomads!**
