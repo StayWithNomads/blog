@@ -5,7 +5,7 @@ description: "Select the places you are interested in traveling to and start pla
 image: /images/addinterests.jpg
 categories: features
 ---
-We are about to release our first significant feature for StayWithNomads. 🚀 This feature is, in our opinion, the first step needed to take to find your group for your self-organized coliving space.
+We are about to release our first significant feature for [StayWithNomads](https://www.staywithnomads.com/?s=blog). 🚀 This feature is, in our opinion, the first step needed to take to find your group for your self-organized coliving space.
 
 ![StayWithNomads Select Interests Feature](/images/addinterests.jpg)
 
